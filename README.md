@@ -4,7 +4,9 @@ My Submission For Debugit_2022.
 
 Project Name: ruby(Telegram-Bot)
 
-Technology used: 1. python
+Technology used: 
+
+                1. Python
                  
                  2. API
 
