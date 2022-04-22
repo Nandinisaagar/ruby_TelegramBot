@@ -21,7 +21,7 @@ def help(update: Update, context: CallbackContext):
 	/SatisfyingVideo 
 	/StandUp 
 	/Movies 
-	/Songs 
+	/Song
 	/Podcast
 	/AudioBook
 	/YogaPoses
