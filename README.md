@@ -2,7 +2,7 @@
 
 My Submission For Debugit_2022.
 
-Project Name: ruby(Telegram-Bot)
+Project Name: Ruby(Telegram-Bot)
 
 Technology used: 
 
