@@ -6,7 +6,9 @@ Project Name: ruby(Telegram-Bot)
 
 Technology used: Python.
 
-It is a fun stress buster bot.
+It is a Python Telegram Bot, found on telegram with the username "@rubyyy001_bot"
+
+It is a fun stress buster bot, do check it out!
 
 Table of contents:
 1. Readme file
