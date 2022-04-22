@@ -12,4 +12,4 @@ Table of contents:
 1. Readme file
 2. main.py
 3. Output display video.
-4. pyven.cfg
+4. pyvenv.cfg (configuration file)
