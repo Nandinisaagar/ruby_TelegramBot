@@ -10,7 +10,6 @@ Technology used:
                  
                  2. API
                  
-The link for my bot is [here](t.me/rubyyy001_bot)
 
 It is a Python Telegram Bot, found on telegram with the username "@rubyyy001_bot"
 
