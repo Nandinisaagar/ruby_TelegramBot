@@ -6,7 +6,7 @@ Project Name: Ruby(Telegram-Bot)
 
 Technology used: 
 
-                1. Python
+                 1. Python
                  
                  2. API
                  
